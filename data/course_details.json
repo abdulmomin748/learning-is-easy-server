@@ -82,7 +82,7 @@
     },
     {
         "id": "03",
-        "courseName": "Introduction to Programming",
+        "courseName": "For Beginners Introduction to Programming",
         "author": "Programming (BD)",
         "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "total_enroll": 1910,
@@ -125,9 +125,9 @@
     },
     {
         "id": "04",
-        "courseName": "Full Stack Roadmap 2021",
+        "courseName": "Full Stack Web Devlopment Roadmap 2021",
         "author": "Programming Hero (BD)",
-        "img": "https://images.unsplash.com/photo-1627634777217-c864268db30c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img": "https://images.unsplash.com/photo-1573166364710-411396f726c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
         "total_enroll": 3410,
         "what_you_learn": [
             {"first": "Go from Zero skills to building Powerful Web Applications on a highly professional level using the latest 2021 Web Technologies."},
@@ -253,7 +253,7 @@
         "id": "07",
         "courseName": "The Complete Web Developer Course 3.0",
         "author": "Old Hero (AFG)",
-        "img": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img": "https://images.unsplash.com/photo-1573166364839-1bfe9196c23e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
         "total_enroll": 2910,
         "what_you_learn": [
             {"first": "Build websites and webapps"},
@@ -293,6 +293,48 @@
         "courseName": "Start Beginner Web Devlopment",
         "author": "Ali Rahat (SRI)",
         "img": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "total_enroll": 8910,
+        "what_you_learn": [
+            {"first": "Build websites and webapps"},
+            {"second": "Get a job as a junior web develop"},
+            {"third": "Start their own online business"},
+            {"four": "Be proficient with databases and server-side languages"},
+            {"five": "Build HTML-based mobile apps"},
+            {"six": "Bid for projects on freelance websites"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"language": "Javascript (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "This course by Brad Hussey is the go-to, most comprehensive, A to Z web design, web development and career-building course that will kickstart your progress by focusing on what you need to learn, and avoiding the unnecessary details."},
+            "course_for": [
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "32 hours of vedio"},
+                {"c_i_2": "60 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+        }
+    },
+    {
+        "id": "09",
+        "courseName": "Mern Stact Web Devlopment for Beginners",
+        "author": "Hossain (UK)",
+        "img": "https://images.unsplash.com/photo-1573166855576-5e6dca380e7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
         "total_enroll": 8910,
         "what_you_learn": [
             {"first": "Build websites and webapps"},
