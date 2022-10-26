@@ -2,6 +2,7 @@
     {
         "id": "01",
         "courseName": "The Complete 2020 Fullstack Web Developer Course",
+        "author": "Hossain (UK)",
         "img": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
         "total_enroll": 5000,
         "what_you_learn": [
@@ -124,21 +125,22 @@
         "id": "04",
         "courseName": "Full Stack Roadmap 2021",
         "img": "https://images.unsplash.com/photo-1627634777217-c864268db30c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "total_enroll": 1110,
+        "total_enroll": 3410,
         "what_you_learn": [
-            {"first": "What is HTML5?"},
+            {"first": "Go from Zero skills to building Powerful Web Applications on a highly professional level using the latest 2021 Web Technologies."},
+            {"first": "Use a Portfolio of over 15 highly professional websites, Games and Mobile apps you would have developed during the course to take your career to the next level."},
+            {"first": "javascript framework"},
             {"second": "How to Display HTML5 Code in a Browser"},
             {"third": "The Tool to Use for Coding"},
             {"four": "How HTML5 Documents are Structured"},
             {"five": "Understand How to Create Borders, Background and Margins"},
-            {"six": "Run Python Command LIne Code"},
+            {"six": "Run Node Js"},
             {"six": "Run Code"}
         ],  
         "course_info" : {
             "requirements": [
                 {"req": "Windows or Mac"},
                 {"web": "Web Browser (Free)"},
-                {"language": "Javascript (Free)"},
                 {"Editor": "Text Editor (Free)"},
                 {"knowladge": "Basic knowladge"}
             ],
@@ -156,8 +158,169 @@
                 {"third": "People at the Beginning of Their Coding Career"}
             ],
             "course_include": [
-                {"c_i_1": "12 hours of vedio"},
-                {"c_i_2": "20 articles + resources"},
+                {"c_i_1": "121 hours of vedio"},
+                {"c_i_2": "90 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+        }
+    },
+    {
+        "id": "05",
+        "courseName": "Junior Web devlopment Roadmap",
+        "img": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "total_enroll": 3810,
+        "what_you_learn": [
+            {"first": "Add Styling To Static Webpages Using CSS, Learn How To Style HTML Elements Using CSS Selectors"},
+            {"second": "Learn How To Create Structure For Webpages Using HTML, Create Lists, Add Images & Forms To Webpage"},
+            {"third": "Add Styling To Static Webpages Using CSS, Learn How To Style HTML Elements Using CSS Selectors"},
+            {"four": "Learn How To Use CSS Flex-box To Create Mobile Responsive Layouts."},
+            {"five": "Build Your Own Portfolio Site Using HTML & CSS"},
+            {"six": "Create A Fully Responsive News Portal Using Bootstrap"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "The most comprehensive yet precise course on web development to build web development skills. If you aspire to become a professional web developer or if you want to get into the field of web development then this is the right course to start with. This course is specially designed to build a skillset around all the modern web development technologies which are in-demand by tech companies in 2018."},
+            "course_for": [ 
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "21 hours of vedio"},
+                {"c_i_2": "50 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+        }
+    },
+    {
+        "id": "06",
+        "courseName": "The Complete Web Developer Course 2.0",
+        "img": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+        "total_enroll": 2810,
+        "what_you_learn": [
+            {"first": "Build websites and webapps"},
+            {"second": "Get a job as a junior web develop"},
+            {"third": "Start their own online business"},
+            {"four": "Be proficient with databases and server-side languages"},
+            {"five": "Build HTML-based mobile apps"},
+            {"six": "Bid for projects on freelance websites"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "***New for Nov 2021! Check out the updated and re-recorded HTML and CSS sections! Get familiar with Visual Studio Code and learn the latest tips, tricks and coding methods!*** You’re here because you’re ready to start building professional, career-boosting websites. "},
+            "course_for": [ 
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "181 hours of vedio"},
+                {"c_i_2": "90 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+        }
+    },
+    {
+        "id": "07",
+        "courseName": "The Complete Web Developer Course 3.0",
+        "author": "Old Hero (AFG)",
+        "img": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "total_enroll": 2910,
+        "what_you_learn": [
+            {"first": "Build websites and webapps"},
+            {"second": "Get a job as a junior web develop"},
+            {"third": "Start their own online business"},
+            {"four": "Be proficient with databases and server-side languages"},
+            {"five": "Build HTML-based mobile apps"},
+            {"six": "Bid for projects on freelance websites"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "desc": "There is an overwhelming number of options that are available to those who want to learn.  Introduction to Programming is designed to give you the foundational skills that will prove important for any type of programming you want to do. You’ll learn to code web pages, create a mobile application and use external data sources. (Mobile covered in Level II of the course)"},
+            "course_for": [ 
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "181 hours of vedio"},
+                {"c_i_2": "90 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+    },
+    {
+        "id": "08",
+        "courseName": "Start Beginner Web Devlopment",
+        "author": "Ali Rahat (SRI)",
+        "img": "https://images.unsplash.com/photo-1525130413817-d45c1d127c42?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "total_enroll": 8910,
+        "what_you_learn": [
+            {"first": "Build websites and webapps"},
+            {"second": "Get a job as a junior web develop"},
+            {"third": "Start their own online business"},
+            {"four": "Be proficient with databases and server-side languages"},
+            {"five": "Build HTML-based mobile apps"},
+            {"six": "Bid for projects on freelance websites"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"language": "Javascript (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "This course by Brad Hussey is the go-to, most comprehensive, A to Z web design, web development and career-building course that will kickstart your progress by focusing on what you need to learn, and avoiding the unnecessary details."},
+            "course_for": [
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "32 hours of vedio"},
+                {"c_i_2": "60 articles + resources"},
                 {"c_i_3": "Certificate of completion"}
             ]
         }
