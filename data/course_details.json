@@ -1,8 +1,165 @@
 [
     {
         "id": "01",
+        "courseName": "The Complete 2020 Fullstack Web Developer Course",
+        "img": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "total_enroll": 5000,
+        "what_you_learn": [
+            {"first": "The Tool to Use for Coding"},
+            {"first": "Identify the tools used by web developers"},
+            {"first": "Integrate prewritten Javascript code"},
+            {"first": "Understand the next steps to learning professional web development skills"},
+            {"first": "Understand the technologies used in web development"}
+        ],  
         "course_info" : {
-            
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"language": "Javascript (Free)"},
+                {"Editor": "Text Editor (Free)"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "Have you ever said to yourself:  ”I'd like to learn programming, but where should I start?”  There is an overwhelming number of options that are available to those who want to learn.  Introduction to Programming is designed to give you the foundational skills that will prove important for any type of programming you want to do. You’ll learn to code web pages, create a mobile application and use external data sources. (Mobile covered in Level II of the course) Introduction to Programming is designed to provide a comprehensive introduction to the programming field.  However, we know you're busy and don't spend time on unnecessary theory and background.  You'll complete the course in just a few weeks worth of evenings-- however the lessons will stay with you throughout your programming career."},
+            "course_for": [
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "12 hours of vedio"},
+                {"c_i_2": "43 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+        }
+    },
+    {
+        "id": "02",
+        "courseName": "Introduction to Web Development",
+        "img": "https://images.unsplash.com/photo-1583508915901-b5f84c1dcde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "total_enroll": 2222,
+        "what_you_learn": [
+            {"first": "Build 23+ custom web design & development projects by hand"},
+            {"second": "Understand the role of CSS in web development"},
+            {"third": "Use Javascript to adjust the appearance of page elements"},
+            {"four": "Understand the next steps to learning professional web development skills"},
+            {"five": "Apply HTML document structure"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"language": "Javascript (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "This course by Brad Hussey is the go-to, most comprehensive, A to Z web design, web development and career-building course that will kickstart your progress by focusing on what you need to learn, and avoiding the unnecessary details."},
+            "course_for": [
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "32 hours of vedio"},
+                {"c_i_2": "60 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+        }
+    },
+    {
+        "id": "03",
+        "courseName": "Introduction to Programming",
+        "img": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "total_enroll": 1910,
+        "what_you_learn": [
+            {"first": "What is HTML5?"},
+            {"second": "How to Display HTML5 Code in a Browser"},
+            {"third": "The Tool to Use for Coding"},
+            {"four": "How HTML5 Documents are Structured"},
+            {"five": "Understand How to Create Borders, Background and Margins"},
+            {"six": "Run Python Command LIne Code"},
+            {"six": "Run Code"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"language": "Javascript (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "There is an overwhelming number of options that are available to those who want to learn.  Introduction to Programming is designed to give you the foundational skills that will prove important for any type of programming you want to do. You’ll learn to code web pages, create a mobile application and use external data sources. (Mobile covered in Level II of the course)"},
+            "course_for": [ 
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "12 hours of vedio"},
+                {"c_i_2": "20 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
+        }
+    },
+    {
+        "id": "04",
+        "courseName": "Full Stack Roadmap 2021",
+        "img": "https://images.unsplash.com/photo-1627634777217-c864268db30c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "total_enroll": 1110,
+        "what_you_learn": [
+            {"first": "What is HTML5?"},
+            {"second": "How to Display HTML5 Code in a Browser"},
+            {"third": "The Tool to Use for Coding"},
+            {"four": "How HTML5 Documents are Structured"},
+            {"five": "Understand How to Create Borders, Background and Margins"},
+            {"six": "Run Python Command LIne Code"},
+            {"six": "Run Code"}
+        ],  
+        "course_info" : {
+            "requirements": [
+                {"req": "Windows or Mac"},
+                {"web": "Web Browser (Free)"},
+                {"language": "Javascript (Free)"},
+                {"Editor": "Text Editor (Free)"},
+                {"knowladge": "Basic knowladge"}
+            ],
+            "course_content_release_week": [
+                {"week1": "first week"},
+                {"week2": "second week"},
+                {"week3": "third week"},
+                {"week4": "fourth week"}
+            ],
+            "description": {
+                "desc": "There is an overwhelming number of options that are available to those who want to learn.  Introduction to Programming is designed to give you the foundational skills that will prove important for any type of programming you want to do. You’ll learn to code web pages, create a mobile application and use external data sources. (Mobile covered in Level II of the course)"},
+            "course_for": [ 
+                {"first": "Beginners who want to learn to code"},
+                {"second": "Teachers and Students"},
+                {"third": "People at the Beginning of Their Coding Career"}
+            ],
+            "course_include": [
+                {"c_i_1": "12 hours of vedio"},
+                {"c_i_2": "20 articles + resources"},
+                {"c_i_3": "Certificate of completion"}
+            ]
         }
     }
 ]
