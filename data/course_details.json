@@ -276,6 +276,7 @@
                 {"week3": "third week"},
                 {"week4": "fourth week"}
             ],
+            "description": {
             "desc": "There is an overwhelming number of options that are available to those who want to learn.  Introduction to Programming is designed to give you the foundational skills that will prove important for any type of programming you want to do. You’ll learn to code web pages, create a mobile application and use external data sources. (Mobile covered in Level II of the course)"},
             "course_for": [ 
                 {"first": "Beginners who want to learn to code"},
@@ -287,6 +288,7 @@
                 {"c_i_2": "90 articles + resources"},
                 {"c_i_3": "Certificate of completion"}
             ]
+        }
     },
     {
         "id": "08",
